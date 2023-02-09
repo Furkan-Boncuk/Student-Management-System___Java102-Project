@@ -6,7 +6,7 @@ Yazacağımız Comparator'lar ile öğrencileri :
 * Not Ortalamalarına, 
 * Öğrenci Numaralarına göre sıralayalım ve TreeSet tekrarlanan verileri engellesin.
 
-OUTPUT:
+/////OUTPUT:
 
 Sorted by student id:
 
