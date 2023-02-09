@@ -4,8 +4,6 @@ public class Main {
     public static void main(String[] args) {
         TreeSet<Student> students = new TreeSet<>(new StudentIdComparator());
         students.add(new Student("Ayşe",98.1,235604));
-        students.add(new Student("Ayşe",92.4,235707)); 
-        // Sıralama esnasında aynı değerleri tekrarlayıp takrarlamayacağını test etmek için üstteki elemanı ekledik
         students.add(new Student("Ahmet",92.4,235605));
         students.add(new Student("Berke",85.7,235702));
         students.add(new Student("Batu",56.3,235707));
