@@ -4,7 +4,7 @@ TreeSet'leri kullanarak basit bir Öğrenci Yönetim Sistemi kodlayalım.
 Yazacağımız Comparator'lar ile öğrencileri :
 * İsimlerine,
 * Not Ortalamalarına, 
-* Okul Numaralarına göre sıralayalım ve TreeSet tekrarlanan verileri engellesin.
+* Öğrenci Numaralarına göre sıralayalım ve TreeSet tekrarlanan verileri engellesin.
 
 OUTPUT:
 
